@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" fill="none">
+ <g stroke="#8C856F" stroke-width="1.15" opacity="0.5">
+  <path d="M60 350H710" opacity=".35"/>
+  <path d="M80 60H700M80 110H700M80 160H700M80 210H700M80 260H700M80 310H700" opacity=".16"/>
+  <path d="M150 40V370M250 40V370M350 40V370M450 40V370M550 40V370M650 40V370" opacity=".16"/>
+  <circle cx="245" cy="220" r="105"/><circle cx="245" cy="220" r="72"/><circle cx="245" cy="220" r="30"/>
+  <path d="M245 115c130 2 205 20 280 104-70 84-150 104-280 106"/>
+  <path d="M350 205h255v30H350"/>
+  <path d="M575 176h72v88h-72"/>
+  <path d="M205 324l-24 47h132l-20-47M500 292l-34 79h145l-35-79"/>
+  <path d="M190 170l110 100M300 170L190 270M245 145v150M120 220h250" opacity=".55"/>
+  <text x="80" y="52" fill="#8C856F" font-family="Inter,Arial" font-size="14">PUMP ASSEMBLY</text>
+  <text x="515" y="52" fill="#8C856F" font-family="Inter,Arial" font-size="12">INDUSTRIAL SYSTEM</text>
+ </g>
+</svg>

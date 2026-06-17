@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" fill="none">
+  <g stroke="#8C856F" stroke-width="1.2" opacity="0.55">
+    <path d="M62 425H845" opacity=".35"/>
+    <path d="M100 90H810M100 140H810M100 190H810M100 240H810M100 290H810M100 340H810" opacity=".18"/>
+    <path d="M160 55V452M260 55V452M360 55V452M460 55V452M560 55V452M660 55V452M760 55V452" opacity=".18"/>
+    <ellipse cx="312" cy="275" rx="170" ry="102"/>
+    <ellipse cx="312" cy="275" rx="132" ry="78"/>
+    <ellipse cx="312" cy="275" rx="58" ry="34"/>
+    <ellipse cx="560" cy="275" rx="172" ry="102"/>
+    <path d="M312 173h248M312 377h248"/>
+    <path d="M214 188l250-50 195 28 80 82-20 74-158 88-270-36-92-75z" opacity=".28"/>
+    <path d="M210 377l-36 54h122l38-47M628 382l-25 49h142l30-58"/>
+    <rect x="426" y="91" width="110" height="55" rx="6"/>
+    <rect x="451" y="51" width="62" height="40" rx="5"/>
+    <path d="M190 155h80M610 150h92M156 126h120M645 118h112" opacity=".7"/>
+    <circle cx="735" cy="274" r="38"/><circle cx="735" cy="274" r="18"/>
+    <path d="M95 450h710" opacity=".65"/>
+    <path d="M110 88h160m-160 0v36"/><path d="M628 83h180m0 0v46"/>
+    <text x="110" y="78" fill="#8C856F" font-family="Inter,Arial" font-size="14">COMPRESSOR UNIT</text>
+    <text x="630" y="73" fill="#8C856F" font-family="Inter,Arial" font-size="12">TECHNICAL DRAWING</text>
+  </g>
+</svg>
